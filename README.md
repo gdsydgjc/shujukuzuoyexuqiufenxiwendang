@@ -16,6 +16,6 @@
 - 数据库课程的学生
 
 ##下载链接 
-[数据库作业需求分析文档]9https;//pan.quark.cn/s/c75d5d836b870 
+[数据库作业需求分析文档]https://pan.quark.cn/s/c75d5d836b870 
 
-9备用; [备用下载]9https;//pan.baidu.com/s/192klqt27nwjtybdkr9iu
+https://pan.baidu.com/s/192klqt27nwjtybdkr9iu
